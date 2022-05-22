@@ -9,6 +9,7 @@
 
 1. Balena Etcher
 1. Blender
+1. Chrome
 1. Discord
 1. Iruin Webcam
 1. JabRef
@@ -30,5 +31,7 @@
 
 ## Notes
 
+Check the checklist!
 Install Libre Office by Default!  
-OneNote accessible by Browser!
+OneNote accessible by Browser!  
+Use Chrome to update the Calculator!
