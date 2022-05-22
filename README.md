@@ -30,5 +30,5 @@
 
 ## Notes
 
-Install Libre Office by Default!\\
+Install Libre Office by Default!  
 OneNote accessible by Browser!
