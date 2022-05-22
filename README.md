@@ -31,7 +31,7 @@
 
 ## Notes
 
-Check the checklist!
+Check the checklist!  
 Install Libre Office by Default!  
 OneNote accessible by Browser!  
 Use Chrome to update the Calculator!
