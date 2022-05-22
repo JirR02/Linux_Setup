@@ -18,6 +18,7 @@
 1. Qtractor
 1. Signal
 1. Spotify
+1. Stacer
 1. St. Gallen Steuern
 1. Teams
 1. TexMaker
@@ -29,5 +30,5 @@
 
 ## Notes
 
-Install Libre Office by Default!
+Install Libre Office by Default!\\
 OneNote accessible by Browser!
