@@ -57,10 +57,10 @@
 1. python
 1. mathplotlib
 1. LaTex
-1. gcc
 
 ## Notes
 
 Check the checklist!  
 OneNote accessible by Browser!  
-Use Chrome to update the Calculator!
+Use Chrome to update the Calculator!  
+gcc already installed by default!
