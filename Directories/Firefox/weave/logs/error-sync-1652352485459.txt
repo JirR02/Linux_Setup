@@ -1,0 +1,36 @@
+1652352412781	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652352412897	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 304
+1652352436941	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652352437593	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1652352437593	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652352437595	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652352457440	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652352457895	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1652352457895	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1652352457897	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652352457897	Sync.Service	INFO	Starting sync at 2022-05-12 12:47:37 in browser session mFe5yemY-QQM
+1652352457898	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652352457900	Sync.Status	INFO	Resetting Status.
+1652352457900	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652352457901	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1652352464474	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652352465565	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1652352465565	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652352465566	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652352477112	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652352477280	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1652352477280	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1652352477283	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652352477283	Sync.Service	INFO	Starting sync at 2022-05-12 12:47:57 in browser session mFe5yemY-QQM
+1652352477284	Sync.Service	DEBUG	Exception calling anonymous function: LockException: Could not acquire lock. Label: "service.js: sync".(resource://services-sync/util.js:55:5) JS Stack trace: LockException@util.js:55:5
+throwLockException@util.js:141:11
+WrappedLock@util.js:155:15
+_lockedSync@service.js:1370:6
+sync/<@service.js:1334:18
+WrappedCatch@util.js:126:27
+sync@service.js:1335:7
+1652352477284	Sync.Service	INFO	Cannot start sync: already syncing?
+1652352485455	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections failed: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652352485456	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652352485456	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1652352485459	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available

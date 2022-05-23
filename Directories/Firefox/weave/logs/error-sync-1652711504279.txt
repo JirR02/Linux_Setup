@@ -1,0 +1,19 @@
+1652711418370	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652711490516	Sync.SyncScheduler	DEBUG	Woke from sleep.
+1652711490517	Sync.SyncScheduler	DEBUG	Online, will sync in 2s.
+1652711490518	Sync.SyncScheduler	DEBUG	Next sync in 2000 ms. (why=wake_notification)
+1652711490520	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652711492519	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652711492520	Sync.Service	INFO	Starting sync at 2022-05-16 16:31:32 in browser session ij53ff9hD5M_
+1652711492520	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652711492524	Sync.Status	INFO	Resetting Status.
+1652711492524	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652711492525	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1652711492703	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections
+1652711492704	Sync.Service	DEBUG	Fetching server configuration: https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/configuration
+1652711492704	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1652711504274	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/configuration failed: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652711504274	Sync.Service	WARN	Failed to fetch info/configuration: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652711504274	Sync.ErrorHandler	ERROR	Sync encountered an error: Error: Aborting sync, remote setup failed(resource://services-sync/stages/enginesync.js:95:13) JS Stack trace: sync@enginesync.js:95:13
+1652711504275	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1652711504278	Sync.Service	DEBUG	Exception calling anonymous function: Error: Aborting sync, remote setup failed(resource://services-sync/stages/enginesync.js:95:13) JS Stack trace: sync@enginesync.js:95:13

@@ -1,0 +1,42 @@
+1652637143294	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=schedule)
+1652640382954	Sync.SyncScheduler	DEBUG	Woke from sleep.
+1652640382955	Sync.SyncScheduler	DEBUG	Online, will sync in 2s.
+1652640382955	Sync.SyncScheduler	DEBUG	Next sync in 2000 ms. (why=wake_notification)
+1652640382956	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652640384957	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652640384957	Sync.Service	INFO	Starting sync at 2022-05-15 20:46:24 in browser session PsA9s7zxcNUH
+1652640384957	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652640384959	Sync.Status	INFO	Resetting Status.
+1652640384959	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652640384960	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1652640384960	FirefoxAccounts	DEBUG	getOAuthToken enter
+1652640384960	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1652640384960	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1652640384960	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1652640384961	Sync.SyncAuthManager	INFO	Getting sync key
+1652640384961	Sync.SyncAuthManager	INFO	Getting a sync token from: https://token.services.mozilla.com/1.0/sync/1.5
+1652640384961	Sync.SyncAuthManager	DEBUG	Getting a token using OAuth
+1652640384961	FirefoxAccounts	DEBUG	getOAuthToken enter
+1652640384961	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1652640384962	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1652640384962	Services.Common.TokenServerClient	DEBUG	Beginning OAuth token exchange: https://token.services.mozilla.com/1.0/sync/1.5
+1652640384962	Services.Common.RESTRequest	DEBUG	GET request to https://token.services.mozilla.com/1.0/sync/1.5
+1652640385733	Services.Common.RESTRequest	DEBUG	GET https://token.services.mozilla.com/1.0/sync/1.5 200
+1652640385733	Services.Common.TokenServerClient	DEBUG	Got token response: 200
+1652640385733	Services.Common.TokenServerClient	DEBUG	Successful token response
+1652640385733	Sync.Status	DEBUG	Status.login: success.login => success.login
+1652640385733	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652640388522	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652640388522	Sync.Service	INFO	Starting sync at 2022-05-15 20:46:28 in browser session PsA9s7zxcNUH
+1652640388522	Sync.Service	DEBUG	Exception calling anonymous function: LockException: Could not acquire lock. Label: "service.js: sync".(resource://services-sync/util.js:55:5) JS Stack trace: LockException@util.js:55:5
+throwLockException@util.js:141:11
+WrappedLock@util.js:155:15
+_lockedSync@service.js:1370:6
+sync/<@service.js:1334:18
+WrappedCatch@util.js:126:27
+sync@service.js:1335:7
+1652640388524	Sync.Service	INFO	Cannot start sync: already syncing?
+1652640390975	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections failed: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652640390976	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652640390976	Sync.SyncScheduler	DEBUG	Next sync in 90000 ms. (why=reschedule)
+1652640390980	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available

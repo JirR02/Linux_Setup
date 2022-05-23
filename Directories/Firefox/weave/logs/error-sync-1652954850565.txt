@@ -1,0 +1,15 @@
+1652954251457	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=schedule)
+1652954850499	Sync.Service	DEBUG	User-Agent: Firefox/100.0.1 (Intel Mac OS X 10.15) FxSync/1.102.0.20220513165813.desktop
+1652954850499	Sync.Service	INFO	Starting sync at 2022-05-19 12:07:30 in browser session DgNXd1-qlAGJ
+1652954850500	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652954850524	Sync.Status	INFO	Resetting Status.
+1652954850524	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652954850525	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1652954850525	FirefoxAccounts	DEBUG	getOAuthToken enter
+1652954850526	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1652954850526	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1652954850527	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1652954850559	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections failed: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no] No traceback available
+1652954850560	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no] No traceback available
+1652954850561	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1652954850563	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no] No traceback available

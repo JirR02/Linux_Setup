@@ -1,0 +1,28 @@
+1652031839673	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652033438468	Sync.SyncScheduler	DEBUG	Woke from sleep.
+1652033438468	Sync.SyncScheduler	DEBUG	Online, will sync in 2s.
+1652033438469	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652033438815	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile failed: 2152398862 - NS_ERROR_NET_TIMEOUT
+1652033438815	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438815	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438815	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438815	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438815	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438816	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1652033438817	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652033439140	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1652033439141	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652033439142	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1652033443154	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1652033443703	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1652033443703	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1652033443705	Sync.Service	DEBUG	User-Agent: Firefox/100.0 (Intel Mac OS X 10.15) FxSync/1.102.0.20220428192727.desktop
+1652033443705	Sync.Service	INFO	Starting sync at 2022-05-08 20:10:43 in browser session QKGQlxwspXxv
+1652033443705	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1652033443707	Sync.Status	INFO	Resetting Status.
+1652033443707	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1652033443708	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1652033446921	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections failed: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652033446922	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1652033446922	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1652033446924	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
