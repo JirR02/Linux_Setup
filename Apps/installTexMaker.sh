@@ -1,0 +1,1 @@
+flatpak install flathub net.xm1math.Texmaker -y

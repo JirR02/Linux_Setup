@@ -43,17 +43,20 @@
 ### 1.3 Packages
 
 1. ffmpeg
+1. flathub
 1. git
 1. htop
 1. neofetch
 1. node
 1. qpdf
 1. thefuck
+1. other
 
 #### 1.3.1 Python Packages and compilers
 
 1. python
 1. mathplotlib
+1. LaTex
 1. gcc
 
 ## Notes

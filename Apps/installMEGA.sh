@@ -1,0 +1,1 @@
+flatpak install flathub nz.mega.MEGAsync -y
