@@ -5,3 +5,4 @@ wait
 installApps.sh
 wait
 installDirectories.sh
+wait
