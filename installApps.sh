@@ -36,7 +36,7 @@ Apps/installTeams.sh
 wait
 Apps/installTexMaker.sh
 wait
-Apps/installThunderbird.sh
+Apps/installThunderBird.sh
 wait
 Apps/installUltimakerCura.sh
 wait
