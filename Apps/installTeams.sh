@@ -1,1 +1,1 @@
-flatpak install flathub com.microsoft.Teams .y
+flatpak install flathub com.microsoft.Teams -y
