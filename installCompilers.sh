@@ -1,4 +1,4 @@
 Compilers/installPython.sh
 wait
-installTexLive.sh
+Compilers/installTexLive.sh
 wait
