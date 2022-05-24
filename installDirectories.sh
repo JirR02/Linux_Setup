@@ -1,4 +1,4 @@
 mv Directories/destreamer/* ~/Documents/
 wait
-mv Directories/PDF_Convert7* ~/Documents/
+mv Directories/PDF_Convert/* ~/Documents/
 wait
