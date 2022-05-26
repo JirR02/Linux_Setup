@@ -12,6 +12,8 @@ Packages/installNode.sh
 wait
 Packages/installQpdf.sh
 wait
+Packages/installsnd_hda_macbookpro.sh
+wait
 Packages/installThefuck.sh
 wait
 Packages/Other/installFedoraWorkstationRepositories.sh
