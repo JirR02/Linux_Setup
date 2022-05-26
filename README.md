@@ -49,8 +49,9 @@
 1. neofetch
 1. node
 1. qpdf
-1. thefuck
-1. other
+1. snd_hda_macbookpro
+3. thefuck
+4. other
 
 #### 1.3.1 Python Packages and compilers
 
@@ -63,4 +64,10 @@
 Check the checklist!  
 OneNote accessible by Browser!  
 Use Chrome to update the Calculator!  
-gcc already installed by default!
+gcc already installed by default!  
+make zsh default shell by running folowing comands:  
+
+```shell
+sudo dnf install zsh
+chsh -s $(which zsh)
+```
