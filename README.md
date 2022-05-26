@@ -69,5 +69,6 @@ make zsh default shell by running folowing comands:
 
 ```shell
 sudo dnf install zsh
+sudo dnf install util-linux-user
 chsh -s $(which zsh)
 ```
