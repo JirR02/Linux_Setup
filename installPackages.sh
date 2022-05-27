@@ -18,5 +18,3 @@ Packages/installThefuck.sh
 wait
 Packages/Other/installFedoraWorkstationRepositories.sh
 wait
-Packages/Other/installV4l2loopback.sh
-wait

@@ -1,8 +1,8 @@
-installPackages.sh
+./installPackages.sh
 wait
-installCompilers.sh
+./installCompilers.sh
 wait
-installApps.sh
+./installApps.sh
 wait
-installDirectories.sh
+./installDirectories.sh
 wait

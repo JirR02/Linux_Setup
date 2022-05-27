@@ -1,6 +1,6 @@
-curl -o https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/stacer-1.1.0-amd64.rpm
+cd /home/jirayuruh/Downloads
+curl -O https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/stacer-1.1.0-amd64.rpm
 wait
-cd ~/Downloads
-sudo dnf install stacer-1.1.0-amd64.rpm -y
+find ./ -type f -name "*.rpm" -exec sudo dnf install {} \;
 wait
-rm stacer-1.1.0-amd64.rpm
+find ./ -type f -name "*.rpm" -exec rm {} \;

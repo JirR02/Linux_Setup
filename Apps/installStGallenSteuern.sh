@@ -5,4 +5,4 @@ find ./ -type f -name "*.sh" -exec chmod +x {} \;
 wait
 find ./ -type f -name "*.sh" -exec {} \;
 wait
-find ./ -type f -name "*.sh" -exec rm {}\;
+find ./ -type f -name "*.sh" -exec rm -rf {}\;

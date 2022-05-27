@@ -10,6 +10,7 @@
 1. Balena Etcher
 1. Blender
 1. Chrome
+1. Destreamer
 1. Discord
 1. GNOME Tweaks
 1. Iruin Webcam
@@ -72,3 +73,4 @@ sudo dnf install zsh
 sudo dnf install util-linux-user
 chsh -s $(which zsh)
 ```
+Manually move FireFox Profile Folder!

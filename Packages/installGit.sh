@@ -8,3 +8,4 @@ wait
 find ./ -type f -name "install.sh" -exec chmod +x {} \;
 find ./ -type f -name "install.sh" -exec {} \;
 git lfs install
+find ./ -type f -name "*.tar.gz" -exec rm -rf {} \;
