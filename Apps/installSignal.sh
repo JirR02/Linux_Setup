@@ -1,1 +1,1 @@
-flatpak install flathub org.signal.Signal -y
+pacman -S signal-desktop -y

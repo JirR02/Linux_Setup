@@ -1,1 +1,1 @@
-flatpak install flathub com.ultimaker.cura -y
+pacman -S cura -y

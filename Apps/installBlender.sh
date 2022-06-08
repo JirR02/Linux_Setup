@@ -1,1 +1,1 @@
-sudo dnf install blender -y
+pacman -S blender -y

@@ -1,1 +1,1 @@
-sudo dnf install qpdf -y
+pacman -S qpdf -y

@@ -1,1 +1,1 @@
-flatpak install flathub org.rncbc.qtractor -y
+pacman -S qtractor -y

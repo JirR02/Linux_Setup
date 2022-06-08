@@ -1,1 +1,1 @@
-sudo dnf install neofetch -y
+pacman -S neofetch -y

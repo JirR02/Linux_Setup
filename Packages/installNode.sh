@@ -1,1 +1,1 @@
-sudo dnf install nodejs -y
+pacman -S nodejs -y

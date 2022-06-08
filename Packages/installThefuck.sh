@@ -1,1 +1,1 @@
-sudo dnf install thefuck -y
+pacman -S thefuck -y

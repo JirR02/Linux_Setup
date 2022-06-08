@@ -1,3 +1,5 @@
+Apps/installAlacritty.sh
+wait
 Apps/installBalenaEtcher.sh
 wait
 Apps/installBlender.sh
@@ -6,13 +8,9 @@ Apps/installChrome.sh
 wait
 Apps/installDiscord.sh
 wait
-Apps/installGNOMETweaks.sh
-wait
-Apps/installIriunWebcam.sh
+Apps/FoxitReader.sh
 wait
 Apps/installJabRef.sh
-wait
-Apps/installLibreOffice.sh
 wait
 Apps/installMEGA.sh
 wait
@@ -20,9 +18,9 @@ Apps/installMixxx.sh
 wait
 Apps/installOBS.sh
 wait
-Apps/installOneDrive.sh
-wait
 Apps/installQtractor.sh
+wait
+Apps/installRClone.sh
 wait
 Apps/installSignal.sh
 wait

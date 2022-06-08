@@ -1,1 +1,1 @@
-flatpak install flathub org.videolan.VLC -y
+pacman -S vlc -y

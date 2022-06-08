@@ -1,1 +1,1 @@
-dnf install google-chrome-stable -y
+yay google-chrome -y

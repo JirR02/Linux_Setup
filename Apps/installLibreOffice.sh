@@ -1,1 +1,0 @@
-flatpak install flathub org.libreoffice.LibreOffice -y

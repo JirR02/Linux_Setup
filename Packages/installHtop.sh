@@ -1,1 +1,1 @@
-sudo dnf install htop -y
+pacman -S htop -y

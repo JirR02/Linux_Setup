@@ -1,1 +1,1 @@
-flatpak install flathub com.github.eneshecan.WhatsAppForLinux -y
+yay whatsapp-for-linux -y

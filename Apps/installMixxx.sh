@@ -1,1 +1,1 @@
-flatpak install flathub org.mixxx.Mixxx -y
+pacman -S mixxx -y

@@ -1,1 +1,1 @@
-flatpak install discord -y
+pacman -S discord -y

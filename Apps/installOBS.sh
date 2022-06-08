@@ -1,1 +1,1 @@
-flatpak install flathub com.obsproject.Studio -y
+pacman -S obs-studio -y

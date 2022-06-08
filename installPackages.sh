@@ -1,3 +1,5 @@
+Packages/installyay.sh
+wait
 Packages/installffmpeg.sh
 wait
 Packages/installFlathub.sh

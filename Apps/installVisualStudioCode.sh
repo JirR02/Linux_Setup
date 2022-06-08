@@ -1,1 +1,1 @@
-flatpak install flathub com.visualstudio.code -y
+pacman -S code -y
