@@ -22,6 +22,8 @@ Apps/FoxitReader.sh
 wait
 Apps/installJabRef.sh
 wait
+Apps/installLibreoffice.sh
+wait
 Apps/installMEGA.sh
 wait
 Apps/installMixxx.sh
