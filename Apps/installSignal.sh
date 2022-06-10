@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed signal-desktop
+sudo pacman -S --noconfirm --needed signal-desktop

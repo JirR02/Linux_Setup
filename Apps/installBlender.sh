@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed blender 
+sudo pacman -S --noconfirm --needed blender 

@@ -1,1 +1,1 @@
-yay -S teams -y
+sudo yay -S teams -y

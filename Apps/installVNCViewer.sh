@@ -1,1 +1,1 @@
-yay -S realvnc-vnc-viewer -y
+sudo yay -S realvnc-vnc-viewer -y

@@ -1,1 +1,1 @@
-yay -S stacer -y
+sudo yay -S stacer -y

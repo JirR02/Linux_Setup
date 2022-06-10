@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed bluez bluez-utils
+sudo pacman -S --noconfirm --needed bluez bluez-utils

@@ -1,3 +1,5 @@
+# Some functions don't work if the file is modified. Modify at own risk!
+
 Arch/installBattery.sh
 wait
 Arch/installBluetooth.sh

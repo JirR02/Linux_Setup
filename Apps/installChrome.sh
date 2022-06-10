@@ -1,1 +1,1 @@
-yay -S google-chrome -y
+sudo yay -S google-chrome -y

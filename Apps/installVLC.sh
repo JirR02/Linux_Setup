@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed vlc
+sudo pacman -S --noconfirm --needed vlc

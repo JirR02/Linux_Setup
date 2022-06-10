@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed thunderbird -y
+sudo pacman -S --noconfirm --needed thunderbird -y

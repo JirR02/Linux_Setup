@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed tlp
+sudo pacman -S --noconfirm --needed tlp

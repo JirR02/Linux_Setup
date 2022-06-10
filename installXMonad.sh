@@ -1,3 +1,5 @@
+# Modify location of xmonad.hs and xmobarrc if needed!
+
 XMonad/installxmonad.sh
 wait
 mkdir /home/jirayuruh/.xmonad

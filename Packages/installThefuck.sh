@@ -1,1 +1,1 @@
-pacman -S thefuck -y
+sudo pacman -S --noconfirm --needed thefuck -y

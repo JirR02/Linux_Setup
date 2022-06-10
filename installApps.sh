@@ -1,3 +1,5 @@
+# Comment out shell script individually if app is not needed!
+
 Apps/installAlacritty.sh
 wait
 Apps/installBalenaEtcher.sh
@@ -6,7 +8,15 @@ Apps/installBlender.sh
 wait
 Apps/installChrome.sh
 wait
+Apps/installDestreamer.sh
+wait
 Apps/installDiscord.sh
+wait
+Apps/installDoomemacs.sh
+wait
+Apps/installFirefox.sh
+wait
+Apps/installFlameshot.sh
 wait
 Apps/FoxitReader.sh
 wait
@@ -37,8 +47,6 @@ wait
 Apps/installThunderBird.sh
 wait
 Apps/installUltimakerCura.sh
-wait
-Apps/installVisualStudioCode.sh
 wait
 Apps/installVLC.sh
 wait

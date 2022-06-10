@@ -1,1 +1,1 @@
-yay -S jabref -y
+sudo yay -S jabref -y

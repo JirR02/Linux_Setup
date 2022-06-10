@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed qtractor
+sudo pacman -S --noconfirm --needed qtractor

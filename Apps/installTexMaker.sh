@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed texmaker
+sudo pacman -S --noconfirm --needed texmaker

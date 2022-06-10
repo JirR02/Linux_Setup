@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed flameshot
+sudo pacman -S --noconfirm --needed flameshot

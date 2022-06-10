@@ -1,1 +1,1 @@
-pacman -S htop -y
+pacman -S --noconfirm --needed htop

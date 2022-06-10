@@ -1,1 +1,1 @@
-pacman -S qpdf -y
+pacman -S --noconfirm --needed qpdf

@@ -1,2 +1,1 @@
-
-pacman -S --noconfirm --needed alsa-utils
+sudo pacman -S --noconfirm --needed alsa-utils

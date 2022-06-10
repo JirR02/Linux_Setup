@@ -1,2 +1,2 @@
-pacman -S git -y
-pacman -S git-lfs -y
+sudo pacman -S --noconfirm --needed git
+pacman -S --noconfirm --needed git-lfs

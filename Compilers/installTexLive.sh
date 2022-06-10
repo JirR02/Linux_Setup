@@ -1,1 +1,1 @@
-yay texlive-full -y
+sudo yay texlive-full -y

@@ -1,1 +1,1 @@
-yay -S balena-etcher -y
+sudo yay -S balena-etcher -y

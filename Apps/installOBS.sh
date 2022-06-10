@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed obs-studio
+sudo pacman -S --noconfirm --needed obs-studio

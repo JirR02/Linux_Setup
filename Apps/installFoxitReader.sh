@@ -1,1 +1,1 @@
-yay -S foxitreader -y
+sudo yay -S foxitreader -y

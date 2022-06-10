@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed mixxx
+sudo pacman -S --noconfirm --needed mixxx

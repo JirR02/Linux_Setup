@@ -1,3 +1,3 @@
-pacman -S --noconfirm --needed cups
+sudo pacman -S --noconfirm --needed cups
 wait
 systemctl enable cups.service

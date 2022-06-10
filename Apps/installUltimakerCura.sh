@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed cura
+sudo pacman -S --noconfirm --needed cura

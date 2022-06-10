@@ -1,1 +1,1 @@
-yay -S megasync -y
+sudo yay -S megasync -y

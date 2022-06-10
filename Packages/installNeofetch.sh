@@ -1,1 +1,1 @@
-pacman -S neofetch -y
+pacman -S --noconfirm --needed neofetch

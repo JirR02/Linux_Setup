@@ -1,1 +1,1 @@
-pacman -S nodejs -y
+pacman -S --noconfirm --needed nodejs

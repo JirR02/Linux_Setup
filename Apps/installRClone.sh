@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed rclone
+sudo pacman -S --noconfirm --needed rclone
