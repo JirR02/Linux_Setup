@@ -1,0 +1,27 @@
+1654596185641	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1654596452196	Sync.RemoteTabs	INFO	Generating tab list with filter
+1654596452200	Sync.RemoteTabs	DEBUG	Processing client: {"id":"Kxl_APBQpQRv","type":"client","name":"Firefox on Jirayu’s iPad","clientType":"tablet","lastModified":1654590607730,"tabs":[]}
+1654596452206	Sync.RemoteTabs	INFO	Final tab list has 1 clients with 2 tabs.
+1654596634701	Sync.SyncScheduler	DEBUG	Going to sleep, doing a quick sync.
+1654596634702	Sync.Service	DEBUG	User-Agent: Firefox/101.0 (Linux x86_64) FxSync/1.103.0.20220602144549.desktop
+1654596634703	Sync.Service	INFO	Starting sync at 2022-06-07 12:10:34 in browser session fpwowbOqpJpO
+1654596634703	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1654596634725	Sync.Status	INFO	Resetting Status.
+1654596634725	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1654596634728	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1654596634728	FirefoxAccounts	DEBUG	getOAuthToken enter
+1654596634731	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1654596634731	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1654596634732	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1654596635824	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1654596635825	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1654596635832	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1654596635838	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1654597137505	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile failed: 2152398862 - NS_ERROR_NET_TIMEOUT
+1654597137506	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NET_TIMEOUT\"  nsresult: \"0x804b000e (NS_ERROR_NET_TIMEOUT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]"}
+1654597137509	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/195039599/info/collections failed: [Exception... "The connection has timed out"  nsresult: "0x804b000e (NS_ERROR_NET_TIMEOUT)"  location: "<unknown>"  data: no] No traceback available
+1654597137510	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1654597137510	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1654597137511	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The connection has timed out"  nsresult: "0x804b000e (NS_ERROR_NET_TIMEOUT)"  location: "<unknown>"  data: no] No traceback available
+1654597137513	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1654597137526	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The connection has timed out"  nsresult: "0x804b000e (NS_ERROR_NET_TIMEOUT)"  location: "<unknown>"  data: no] No traceback available
