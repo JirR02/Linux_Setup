@@ -12,7 +12,7 @@ Apps/installDestreamer.sh
 wait
 Apps/installDiscord.sh
 wait
-Apps/installDoomemacs.sh
+Apps/installDoomnvim.sh
 wait
 Apps/installFirefox.sh
 wait
