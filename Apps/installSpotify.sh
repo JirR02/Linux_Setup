@@ -1,1 +1,1 @@
-yay spotify -y
+yay -S spotify -y

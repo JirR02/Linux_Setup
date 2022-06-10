@@ -1,1 +1,1 @@
-yay realvnc-vnc-viewer -y
+yay -S realvnc-vnc-viewer -y

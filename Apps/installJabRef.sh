@@ -1,1 +1,1 @@
-yay install jabref -y
+yay -S jabref -y

@@ -1,1 +1,1 @@
-yay megasync -y
+yay -S megasync -y

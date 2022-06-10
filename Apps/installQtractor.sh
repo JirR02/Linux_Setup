@@ -1,1 +1,1 @@
-pacman -S qtractor -y
+pacman -S --noconfirm --needed qtractor

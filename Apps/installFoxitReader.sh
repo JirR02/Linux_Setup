@@ -1,1 +1,1 @@
-yay foxitreader -y
+yay -S foxitreader -y

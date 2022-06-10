@@ -1,0 +1,10 @@
+Arch/installBattery.sh
+wait
+Arch/installBluetooth.sh
+wait
+Arch/installGraphics.sh
+wait
+Arch/installPrinter.sh
+wait
+Arch/installSound.sh
+wait

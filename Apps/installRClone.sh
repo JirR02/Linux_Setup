@@ -1,1 +1,1 @@
-pacman -S rclone -y
+pacman -S --noconfirm --needed rclone

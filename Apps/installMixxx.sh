@@ -1,1 +1,1 @@
-pacman -S mixxx -y
+pacman -S --noconfirm --needed mixxx

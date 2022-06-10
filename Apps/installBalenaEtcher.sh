@@ -1,1 +1,1 @@
-yay balena-etcher -y
+yay -S balena-etcher -y

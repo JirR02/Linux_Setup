@@ -1,1 +1,1 @@
-yay whatsapp-for-linux -y
+yay -S whatsapp-for-linux -y

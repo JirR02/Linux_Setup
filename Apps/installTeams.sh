@@ -1,1 +1,1 @@
-yay teams -y
+yay -S teams -y

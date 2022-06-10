@@ -1,1 +1,1 @@
-yay google-chrome -y
+yay -S google-chrome -y

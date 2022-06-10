@@ -1,1 +1,1 @@
-pacman -S alacritty -y
+pacman -S --noconfirm --needed alacritty

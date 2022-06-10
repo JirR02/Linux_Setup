@@ -1,1 +1,1 @@
-pacman -S cura -y
+pacman -S --noconfirm --needed cura

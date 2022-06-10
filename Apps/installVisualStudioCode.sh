@@ -1,1 +1,1 @@
-pacman -S code -y
+pacman -S --noconfirm --needed code

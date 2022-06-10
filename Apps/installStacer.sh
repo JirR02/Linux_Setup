@@ -1,1 +1,1 @@
-yay stacer -y
+yay -S stacer -y

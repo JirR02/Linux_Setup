@@ -1,1 +1,1 @@
-pacman -S blender -y
+pacman -S --noconfirm --needed blender 

@@ -1,0 +1,1 @@
+pacman -S --noconfirm --needed zsh-syntax-highlighting -y

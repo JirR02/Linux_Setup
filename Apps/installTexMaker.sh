@@ -1,1 +1,1 @@
-pacman -S texmaker -y
+pacman -S --noconfirm --needed texmaker

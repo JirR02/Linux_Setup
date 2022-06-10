@@ -1,1 +1,1 @@
-pacman -S signal-desktop -y
+pacman -S --noconfirm --needed signal-desktop

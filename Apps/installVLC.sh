@@ -1,1 +1,1 @@
-pacman -S vlc -y
+pacman -S --noconfirm --needed vlc

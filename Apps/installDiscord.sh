@@ -1,1 +1,1 @@
-pacman -S discord -y
+pacman -S --noconfirm --needed discord -y

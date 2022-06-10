@@ -4,8 +4,6 @@ wait
 wait
 ./installApps.sh
 wait
-./installXMonad.sh
-wait
 ./installDirectories.sh
 wait
 ./installZSH.sh
