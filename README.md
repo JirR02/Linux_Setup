@@ -1,4 +1,4 @@
-# Linux Setup (Fedora)
+# Linux Setup (Arch Linux)
 
 ---
 ---
