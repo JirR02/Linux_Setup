@@ -1,7 +1,5 @@
 # Comment out shell script individually if package is not needed!
 
-Packages/installyay.sh
-wait
 Packages/installEmacs.sh
 wait
 Packages/installffmpeg.sh
