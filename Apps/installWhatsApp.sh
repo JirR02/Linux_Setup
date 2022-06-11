@@ -1,1 +1,1 @@
-sudo yay -S whatsapp-for-linux -y
+sudo yay -S --noconfirm --needed whatsapp-for-linux
