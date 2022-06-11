@@ -1,1 +1,1 @@
-sudo yay -S stacer -y
+sudo yay -S --noconfirm --needed stacer
