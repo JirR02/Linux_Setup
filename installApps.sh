@@ -12,6 +12,8 @@ Apps/installDestreamer.sh
 wait
 Apps/installDiscord.sh
 wait
+Apps/installDmenu.sh
+wait
 Apps/installDoomnvim.sh
 wait
 Apps/installFirefox.sh
@@ -27,6 +29,8 @@ wait
 Apps/installMEGA.sh
 wait
 Apps/installMixxx.sh
+wait
+Apps/installNitrogen.sh
 wait
 Apps/installOBS.sh
 wait
