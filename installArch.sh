@@ -12,3 +12,5 @@ Arch/installSound.sh
 wait
 Arch/installXDG.sh
 wait
+Arch/installyay.sh
+wait
