@@ -1,1 +1,1 @@
-sudo yay -S spotify -y
+sudo yay -S --noconfirm --needed spotify
