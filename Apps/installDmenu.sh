@@ -1,1 +1,1 @@
-pacman -S --noconfirm --needed dmenu
+sudo pacman -S --noconfirm --needed dmenu
