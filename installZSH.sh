@@ -1,5 +1,7 @@
 # Use this shell script to move your aliases etc to your desired destination.
 
+zsh/installzsh.sh
+wait
 cp zsh/zshrc /home/jirayuruh/.zshrc
 cp zsh/alias.sh /home/jirayuruh/.alias.sh
 cp zsh/bootquit.sh /home/jirayuruh/.bootquit-sh
