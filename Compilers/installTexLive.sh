@@ -1,1 +1,1 @@
-sudo yay texlive-full -y
+sudo yay -S --noconfirm --needed texlive-full
