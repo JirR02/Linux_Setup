@@ -1,5 +1,5 @@
-sudo pacman -S --noconfirm --needed xorg-server xorg-apps xorg-xinit xterm
+sudo pacman -S --noconfirm --needed xorg
 wait
-sudo pacman -S --noconfirm --needed ligthdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+sudo yay -S --noconfirm --needed lightdm lightdm-gtk-greeter lightdm-webkit-theme-ether
 wait
-systemctl enable lightdm.services
+systemctl enable lightdm
