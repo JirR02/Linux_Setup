@@ -1,6 +1,6 @@
 # Comment out shell script individually if package is not needed!
 
-Packages/installEmacs.sh
+Packages/installNvim.sh
 wait
 Packages/installffmpeg.sh
 wait
