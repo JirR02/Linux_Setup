@@ -1,1 +1,1 @@
-sudo yay -S balena-etcher -y
+sudo yay -S --noconfirm --needed balena-etcher
