@@ -10,3 +10,5 @@ Arch/installPrinter.sh
 wait
 Arch/installSound.sh
 wait
+Arch/installXDG.sh
+wait
