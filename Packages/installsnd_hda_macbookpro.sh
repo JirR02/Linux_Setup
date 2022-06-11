@@ -1,4 +1,4 @@
-sudo dnf install wget make kernel-devel -y
+sudo pacman --noconfirm --needed -S wget make gcc linux-headers
 cd /home/jirayuruh/Downloads
 git clone https://github.com/davidjo/snd_hda_macbookpro.git
 cd snd_hda_macbookpro
