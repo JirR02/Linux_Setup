@@ -1,1 +1,1 @@
-sudo yay -S foxitreader -y
+sudo yay -S --noconfirm --needed foxitreader
