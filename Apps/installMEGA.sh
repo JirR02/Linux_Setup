@@ -1,1 +1,1 @@
-sudo yay -S megasync -y
+sudo yay -S --noconfirm --needed megasync
