@@ -1,1 +1,1 @@
-sudo yay -S jabref -y
+sudo yay -S --noconfirm --needed jabref
