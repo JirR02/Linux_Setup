@@ -1,6 +1,7 @@
 # Linux Setup (Arch Linux)
 
 ---
+DO NOT COPY THIS REPOSITORY! IT IS NOT WORKING!
 ---
 
 ## 1. Apps, zsh setup, packages & AUR helpers, and GitHub Repositories & Directories
